@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Seattime", "..\..\..\..\..\..\seattime-dev\trunk\Website\Seattime\", "{7CD1398C-9A19-4EDD-8DA0-B7196CEE77CF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Seattime"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\seattime-dev\trunk\Website\Seattime\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Seattime\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Seattime"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\seattime-dev\trunk\Website\Seattime\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Seattime\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52736"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CD1398C-9A19-4EDD-8DA0-B7196CEE77CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD1398C-9A19-4EDD-8DA0-B7196CEE77CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
